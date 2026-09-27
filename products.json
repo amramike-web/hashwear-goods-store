@@ -245,6 +245,17 @@
       "desc": "BASED print on soft premium cotton tee."
     },
     {
+      "id": "based-cap",
+      "name": "BASED Cap",
+      "section": "Slang",
+      "line": "Bold Streetwear",
+      "price": 549,
+      "gelato": "Dad hat / embroidered cap",
+      "image": "based-cap.jpg",
+      "type": "Cap",
+      "desc": "BASED embroidered on black dad hat — logo on front panel, model face clear."
+    },
+    {
       "id": "bullish-hoodie",
       "name": "BULLISH Hoodie",
       "section": "Slang",
