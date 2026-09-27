@@ -69,7 +69,8 @@
       "gelato": "Independent SS4500",
       "image": "defikingz-her.jpg",
       "type": "Hoodie",
-      "desc": "Large crest humor drop on SS4500 premium hoodie."
+      "desc": "Large crest humor drop on SS4500 premium hoodie.",
+      "logo": "defi-kingz-queens.jpg"
     },
     {
       "id": "defikingz-tee",
@@ -104,7 +105,8 @@
       "gelato": "Independent SS4500",
       "image": "night-her.jpg",
       "type": "Hoodie",
-      "desc": "Night lifestyle crest hoodie — same premium blank as core slang."
+      "desc": "Night lifestyle crest hoodie — same premium blank as core slang.",
+      "logo": "defi-kingz-queens.jpg"
     },
     {
       "id": "kings-hoodie",
