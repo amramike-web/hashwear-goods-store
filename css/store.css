@@ -144,3 +144,14 @@ button{font:inherit}
   .layout-bold-streetwear .t-bullish{-webkit-text-stroke:1px #c8c8c8}
 }
 /* bust 2026-09-27T08:35:50+02:00 */
+
+
+/* —— Announcement + About (Bold Streetwear storefront) —— */
+.announce{background:var(--yellow);color:#000;border-bottom:1px solid #000}
+.announce-inner{padding:10px 0}
+.announce p{margin:0;font-size:.92rem;font-weight:700;letter-spacing:.02em;text-align:center}
+.announce a{color:#000;text-decoration:underline;text-underline-offset:3px}
+.about-body{max-width:52ch}
+.about-lead{font-size:1.15rem;font-weight:800;color:#fff;margin:0 0 14px}
+.about-body p{color:#ddd;margin:0 0 12px;line-height:1.55}
+.about-end{color:var(--yellow)!important;font-weight:800;margin-top:8px!important}
